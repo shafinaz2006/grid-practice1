@@ -152,11 +152,6 @@ footer {
   .showcase h1 {
     font-size: 2.5rem;
   }
-  .top-box .btn {
-    /* width: 50%; */
-    /* max-width: 50%; */
-  }
-
   .main-nav ul {
     grid-template-columns: 1fr;
   }
